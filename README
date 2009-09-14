@@ -1,0 +1,17 @@
+ ****************************************************
+
+          Regularized Choleski Algorithm
+
+  This program calculates the regularized solutions
+  for a given linear -  possibly singular - system Ax=b
+  where the matrix A is positive semidefinite.
+ 
+  Developed by: Sopasakis Pantelis & Patrinos Panos
+  in Fortran 90
+
+  National Technical University of Athens
+  School of Chemical Engineering
+  Automatic Control Laboratory
+  version 1.1.2 (pre-alpha)
+
+ ****************************************************
